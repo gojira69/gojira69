@@ -1,5 +1,5 @@
 ### Hi there 👋
-[![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojira69)](https://github.com/anuraghazra/github-readme-stats)
+![Harsha's GitHub stats](https://github-readme-stats.vercel.app/api?username=gojira69&show_icons=true&theme=radical)
 
 <!--
 **gojira69/gojira69** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
